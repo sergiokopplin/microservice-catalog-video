@@ -21,3 +21,4 @@ yarn-error.log
 .vscode-server
 .ssh
 tmp
+.dotnet
