@@ -14,4 +14,4 @@
 	email = sergiokopplin@gmail.com
 	
 [credential]
-	helper = "!f() { /var/www/.vscode-server/bin/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/node /tmp/vscode-remote-containers-dccb29dddd7fe93e7f0639f7582a882182971fc1.js git-credential-helper $*; }; f"
+	helper = "!f() { /var/www/.vscode-server/bin/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/node /tmp/vscode-remote-containers-e187caab8369b6f9c5b1342c2e55273e8ab73411.js git-credential-helper $*; }; f"
